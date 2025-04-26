@@ -1,6 +1,6 @@
 const Hello = () => {
     return (
-        <h1>Hello Worlddd</h1>
+        <h1>Hello Worldddd</h1>
     )
 }
 
